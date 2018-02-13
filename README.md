@@ -1,1 +1,1 @@
-# empty-project
+empty-project
